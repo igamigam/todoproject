@@ -54,6 +54,10 @@
 * runサーバー実行：python3 manage.py runserver
 * djangoユーザーの作成：python3 manage.py createsuperuser
 
+## 課題
+   __デザイン(Bootstrup)、今回は機能実装が目的。後日要対応。__
+   
+
 ![TodeList_01 drawio](https://user-images.githubusercontent.com/106885676/172039984-35c0f40f-aed8-4b2a-bfaf-b12aab8271a5.png)
 
 
