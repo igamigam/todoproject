@@ -7,6 +7,7 @@
 * Ubuntu
 * Python3
 * Django3.2
+* Bootstrap5.0.2
 
 ## デモ
  * ![デモ](https://admin)
@@ -42,8 +43,16 @@
 ### 削除
 1. [削除]ボタンを押下
 
-##参考資料
+## 参考資料
 * Model Field一覧：https://kuma-server.com/model-field/
+* Bootstrupドキュメント:https://getbootstrap.jp/docs/5.0/getting-started/introduction/
+
+## 開発メモ
+* アプリ作成：django-admin startapp <アプリ名> .
+* migrationファイルの作成：python3 manage.py makemigrations
+* DBのテーブル作成：python3 manage.py migrate
+* runサーバー実行：python3 manage.py runserver
+* djangoユーザーの作成：python3 manage.py createsuperuser
 
 ![TodeList_01 drawio](https://user-images.githubusercontent.com/106885676/172039984-35c0f40f-aed8-4b2a-bfaf-b12aab8271a5.png)
 
